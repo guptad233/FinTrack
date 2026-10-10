@@ -1,0 +1,18 @@
+Investment Name,Invested Amount,Expected Annual Return (%)
+"MF",20000.00,12.00
+"FD",10000.00,8.00
+
+Portfolio Summary
+Total Investment,Weighted Expected Annual Return (%)
+30000.00,10.67
+
+Portfolio Allocation
+Investment Name,Allocation (%)
+"MF",66.67
+"FD",33.33
+
+Projected Portfolio Value
+Duration (Years),Projected Value (Rs.)
+1,33200.00
+5,49940.11
+10,83706.21
